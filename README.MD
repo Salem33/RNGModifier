@@ -1,15 +1,6 @@
-Allow you to control something
+Expanded version of RNG Modifier meant to be used in Payday 2 speedruns.
+It aims to offer more control over elements that do not affect much casual players but matter a lot in speedruns.
 
+
+Original mod by Dr. Newbie.
 http://modwork.shop/19913
-
-![ScreenShot](Img/thumbnail/thumbnail_0.jpg)
-
-![ScreenShot](Img/thumbnail/thumbnail_1.jpg)
-
-![ScreenShot](Img/thumbnail/thumbnail_2.jpg)
-
-![ScreenShot](Img/thumbnail/thumbnail_3.jpg)
-
-![ScreenShot](Img/thumbnail/thumbnail_4.jpg)
-
-![ScreenShot](Img/thumbnail/thumbnail_5.jpg)
